@@ -1,6 +1,6 @@
-# Netflix Clone
+# Streaming UI Clone
 
-A front-end Netflix homepage clone built using **HTML** and **CSS** only. This project recreates the look and feel of Netflix's landing page, featuring a hero section, trending content display with hover effects, and a styled footer—all without any JavaScript or frameworks.
+A front-end homepage clone built using **HTML** and **CSS** only. This project recreates the look and feel of a popular Streaming platform's landing page, featuring a hero section, trending content display with hover effects, and a styled footer—all without any JavaScript or frameworks.
 
 ##  Features
 
@@ -13,7 +13,7 @@ A front-end Netflix homepage clone built using **HTML** and **CSS** only. This p
 
 ## Folder Structure
 ```
-Netflix-Clone/
+MovieUI-Clone/
 ├── index.html                
 ├── style.css                 
 ├── assets/                   
@@ -57,7 +57,7 @@ Netflix-Clone/
    
    ```bash
      start index.html
-<p>This is a personal project for educational purposes only. This website is not affiliated with Netflix.</p>
+<p>This is a personal project for educational purposes only. This website is not affiliated with any movie/show streaming platform.</p>
 
 ## Author
 Jagriti Kanwar
