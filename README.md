@@ -57,6 +57,8 @@ Netflix-Clone/
    
    ```bash
      start index.html
+<p>This is a personal project for educational purposes only. This website is not affiliated with Netflix.</p>
+
 ## Author
 Jagriti Kanwar
 <br>
