@@ -1,5 +1,8 @@
 <svg width="320" height="80" xmlns="http://www.w3.org/2000/svg">
-  
+  <!-- Background (transparent) -->
+  <rect width="320" height="80" fill="transparent"/>
+
+  <!-- Text: Bingeo -->
   <text x="40" y="55" font-family="Arial Black, sans-serif" font-size="70" fill="#E50914">
     Bing<tspan fill="#FFFFFF">eo</tspan>
   </text>
